@@ -5,10 +5,10 @@
 
 
 - <b>Python</b>
-  - [Chatting System]()
-  - [Conway's Game of Life]()
+  - [Chatting System](https://github.com/Girum-T/ChattingSystem.git)
+  - [Conway's Game of Life](https://github.com/Girum-T/GameofLife.git)
 - <b>Java</b>
-  - [K Nearest Neighbors]() 
+  - [K Nearest Neighbors](https://github.com/Girum-T/KNearestNeighbors.git) 
   - [Governmental app](https://github.com/Girum-T/GovernementApp.git) 
 
 <h2>🛠️ Currently Working On</h2>
