@@ -9,7 +9,7 @@
   - [Conway's Game of Life](https://github.com/Girum-T/GameofLife.git)
 - <b>Java</b>
   - [K Nearest Neighbors](https://github.com/Girum-T/KNearestNeighbors.git) 
-  - [Governmental app](https://github.com/Girum-T/GovernementApp.git) 
+  - [Government app](https://github.com/Girum-T/GovernementApp.git) 
 
 <h2>🛠️ Currently Working On</h2>
 
